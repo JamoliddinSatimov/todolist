@@ -13,7 +13,6 @@ export default function List() {
           }
         })
         setTodos(newList)
-        console.log(todos);
     }
     
   return (
